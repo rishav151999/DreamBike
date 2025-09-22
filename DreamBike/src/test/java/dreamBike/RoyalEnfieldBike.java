@@ -1,6 +1,8 @@
 package dreamBike;
 
 public class RoyalEnfieldBike {
-	// TODO Auto-generated method stub
-
+	static String b="Himalyan 450";
+	public static void main(String[] args) {
+		System.out.println("I love "+RoyalEnfieldBike.b);
+	}
 }
